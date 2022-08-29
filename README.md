@@ -1,5 +1,7 @@
 # HolaKids
 
+HolaKids adalah website yang menjual peralatan bayi, mulai dari keperluan baju, mainan, hingga kendaraan bayi
+
 Halo Saya Sukron Sabari dari Politeknik Negeri Samarinda telah menyelesaikan Kelas Dasar Pemprograman Web dari [Dicoding Academy](dicoding.com)
 
 
